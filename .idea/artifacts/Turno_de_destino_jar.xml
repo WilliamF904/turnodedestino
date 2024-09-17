@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Turno de destino:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Turno_de_destino_jar</output-path>
+    <root id="archive" name="Turno de destino.jar">
+      <element id="module-output" name="Turno de destino" />
+    </root>
+  </artifact>
+</component>
